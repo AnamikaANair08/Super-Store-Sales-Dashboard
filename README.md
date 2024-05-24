@@ -19,6 +19,6 @@ Project Insights :-
 7. In monthly sales YOY sales was at its peak in December,2020 and lowest in January 2020. It means sales gradually increased over a period of time since 2019.
 8. Customers from California are the highest with sales $335190.256
 
-Along with thid did some sales forecasting with respect to Sum of Sales by Order date and Past 15 days.
+I also did some sales forecasting with respect to Sum of Sales by Order date and Past 15 days.
 
 Guided by: Rishabh Mishra
