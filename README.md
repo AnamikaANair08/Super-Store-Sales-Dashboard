@@ -5,7 +5,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 Tools Used:-
 1. Microsoft Power BI
-2. Data sources(Excel csv files)
+2. Data sources(Excel files)
    
 The charts and KPIs used are - donut charts, stacked area charts, azure map, clustered bar chart, stacked bar chart and cards
 
